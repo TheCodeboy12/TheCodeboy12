@@ -1,6 +1,5 @@
 
-- 👋 Hi, I’m Gabriel, and I am a CS student at OpenU that is currently working in IT.
-- I am a strong beliver in Open source software.
+- 👋 Hi, I’m Gabriel, and I am a fromer CS student at OpenU currently working in IT.
 - 💞️ I’m looking to collaborate on pretty much anything open source
 - 📫 How to reach me : https://www.linkedin.com/in/gabriel-sillam-840272134/
 
